@@ -1,0 +1,5 @@
+zadu
+langchain-huggingface
+jsonlines
+lingua-language-detector
+langchain-anthropic
