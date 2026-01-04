@@ -1,4 +1,4 @@
-# Organized Pipeline for Topic modeling 
+# Pipeline for Topic modeling 
 
 ### Summarization using LLMs
 
